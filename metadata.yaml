@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/871
 description: Hawk Eye, a young Sioux, learns to hunt well and trade during his many
   adventures.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33772#Hawk-Eye
 gutenberg_issued: '2010-09-20'
 gutenberg_type: Text
 identifiers:
